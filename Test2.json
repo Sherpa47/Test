@@ -1,7 +1,7 @@
 [
     {
         "group": "Deportes",
-        "logoUrl": "https://example.com/logo_deportes.png",  // URL del logo para Deportes
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",  // URL del logo para Deportes
         "channels": [
             {
                 "name": "ES: ACESTREAM CAMP",
@@ -21,7 +21,7 @@
     },
     {
         "group": "General",
-        "logoUrl": "https://example.com/logo_general.png",  // URL del logo para General
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",  // URL del logo para General
         "channels": [
             {
                 "name": "ES: 2",
