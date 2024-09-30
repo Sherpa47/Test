@@ -35,7 +35,7 @@
         "drm_scheme": "clearkey",
         "extension": "mpd",
         "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
-        "type": "exoplayer"
+        "type": "mpd"
       
     }
 ]
