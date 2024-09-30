@@ -1,0 +1,34 @@
+[
+    {
+        "group": "Deportes",
+        "logoUrl": "https://example.com/logo_deportes.png",  // URL del logo para Deportes
+        "channels": [
+            {
+                "name": "ES: ACESTREAM CAMP",
+                "id": 905063904,
+                "url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c",
+                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
+                "type": "web"
+            },
+            {
+                "name": "ES: RTE JR |D",
+                "id": 2713202476,
+                "url": "https://www.oha.to/play/2713202476/index.m3u8",
+                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
+                "type": "exoplayer"
+            }
+        ]
+    },
+    {
+        "group": "General",
+        "logoUrl": "https://example.com/logo_general.png",  // URL del logo para General
+        "channels": [
+            {
+                "name": "ES: 2",
+                "id": 2478771195,
+                "url": "https://www.oha.to/play/2478771195/index.m3u8",
+                "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png"
+            }
+        ]
+    }
+]
