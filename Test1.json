@@ -34,7 +34,8 @@
         "kid": "o6vERSXu87Cnr5E4qdvjSg",
         "drm_scheme": "clearkey",
         "extension": "mpd",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
+        "type": "exoplayer"
       
     }
 ]
