@@ -26,5 +26,15 @@
         "id": 2478771195,
         "url": "https://www.oha.to/play/2478771195/index.m3u8",
         "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png"
+    },
+      {
+        "name": "LA 1 - OPC2",
+        "uri": "https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd",
+        "key": "d0D4rkIjzluikwKPf3jxwQ",
+        "kid": "o6vERSXu87Cnr5E4qdvjSg",
+        "drm_scheme": "clearkey",
+        "extension": "mpd",
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png"
+      
     }
 ]
