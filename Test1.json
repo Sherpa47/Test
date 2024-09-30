@@ -8,9 +8,9 @@
         "type": "exoplayer"
     },
     {
-        "name": "ES: ACESTREAM",
+        "name": "ES: ACESTREAM  CAMP",
         "id": 905063904,
-        "url": "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952",
+        "url": "acestream://e2e2aca792aae5da19995ac516b1d620531bd49c",
         "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
         "type": "web"
     },
