@@ -37,5 +37,16 @@
         "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
         "type": "mpd"
       
+    },
+      {
+        "name": "MPD",
+        "uri": "https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd",
+        "key": "o6vERSXu87Cnr5E4qdvjSg",
+        "kid": "d0D4rkIjzluikwKPf3jxwQ",
+        "drm_scheme": "clearkey",
+        "extension": "mpd",
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
+        "type": "mpd"
+      
     }
 ]
