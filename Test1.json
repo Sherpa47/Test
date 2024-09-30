@@ -1,21 +1,24 @@
 [
     
 	{
-        "name": "ES: SKY BUNDESLIGA 1 |E",
+        "name": "ES: SKY BUNDESLIGA 3 |E",
         "id": 1917998896,
         "url": "https://www.oha.to/play/1917998896/index.m3u8",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
+        "type": "exoplayer"
     },
     {
         "name": "ES: SKY BUNDESLIGA 2 |E",
         "id": 905063904,
         "url": "https://www.oha.to/play/905063904/index.m3u8",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
+        "type": "exoplayer"
     },
     {
         "name": "ES: RTE JR |D",
         "id": 2713202476,
         "url": "https://www.oha.to/play/2713202476/index.m3u8",
-        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
+	"type": "exoplayer"
     }
 ]
