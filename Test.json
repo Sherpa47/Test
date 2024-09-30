@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Canal de Televisión",
+        "url": "http://example.com/video.m3u8",
+        "type": "media", // "media" o "web"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png"
+    },
+    {
+        "name": "Sitio Web",
+        "url": "http://example.com",
+        "type": "web", // "media" o "web"
+        "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png"
+    }
+]
