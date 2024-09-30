@@ -8,9 +8,9 @@
         "type": "exoplayer"
     },
     {
-        "name": "ES: SKY BUNDESLIGA 2 |E",
+        "name": "ES: ACESTREAM",
         "id": 905063904,
-        "url": "https://www.oha.to/play/905063904/index.m3u8",
+        "url": "acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952",
         "logoUrl": "https://raw.githubusercontent.com/Sherpa47/Mafia/refs/heads/main/canal.png",
         "type": "web"
     },
