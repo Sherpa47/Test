@@ -1,0 +1,104 @@
+/* style.css */
+
+body {
+    font-family: 'Roboto', sans-serif; /* Cambiamos la fuente */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Asegura que el footer estÃ© en la parte inferior */
+    background-color: #121212; /* Fondo oscuro */
+    color: #ffffff; /* Texto claro */
+}
+
+header {
+    background-color: #1e1e1e; /* Color de fondo del header */
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    flex: 1; /* Permite que el main ocupe el espacio disponible */
+    padding: 20px;
+}
+
+.deporte {
+    background: #1f1f1f; /* Fondo de cada bloque de deporte */
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    margin-bottom: 20px;
+    padding: 15px;
+    transition: background 0.3s;
+}
+
+.deporte:hover {
+    background: #2b2b2b; /* Color al pasar el ratÃ³n */
+}
+
+h2 {
+    cursor: pointer; /* Cambia el cursor al pasar sobre el tÃ­tulo del deporte */
+    color: #00bcd4; /* Color para los tÃ­tulos de los deportes */
+    margin: 0;
+}
+
+.eventos-list {
+    margin-top: 10px;
+    padding-left: 15px; /* SangrÃ­a para los eventos */
+}
+
+.evento {
+    border: 1px solid #333; /* Borde oscuro para los eventos */
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background: #242424; /* Fondo de los eventos */
+    transition: background 0.3s;
+}
+
+.evento:hover {
+    background: #2b2b2b; /* Color al pasar el ratÃ³n sobre el evento */
+}
+
+.hora {
+    font-weight: bold;
+}
+
+.descripcion {
+    margin: 5px 0;
+}
+
+/* Espaciado de los enlaces de acestream */
+.acestream-links a {
+    display: inline-block;
+    margin: 5px; /* Cambia a un margen mÃ¡s pequeÃ±o para un mejor espaciado */
+    padding: 5px 10px;
+    background: #00bcd4; /* Color de fondo de los enlaces */
+    color: black; /* Texto oscuro en enlaces */
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background 0.3s;
+}
+
+.acestream-links a:hover {
+    background: #0097a7; /* Color al pasar el ratÃ³n sobre el enlace */
+}
+
+footer {
+    background-color: #1e1e1e;
+    padding: 10px;
+    text-align: center;
+    position: fixed; /* Fijo en la parte inferior */
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: white;
+}
+
+footer p {
+    margin: 0;
+    font-size: 1rem;
+}
