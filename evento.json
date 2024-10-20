@@ -1,0 +1,527 @@
+
+[
+    {
+        "deporte": "UFC FIGHT NIGHT",
+        "eventos": [
+            {
+                "hora": "00.00",
+                "evento": "A. Hernandez vs M. Pereira",
+                "acestream_ids": [
+                    "c373da9e901d414b7384e671112e64d5a2310c29",
+                    "efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b",
+                    "822654b2c0db24d1de149cb21fdd44a3b968fbfa"
+                ]
+            }
+        ]
+    },
+    {
+        "deporte": "ATLETISMO",
+        "eventos": [
+            {
+                "hora": "08.45",
+                "evento": "Maratón de Ámsterdam",
+                "acestream_ids": [
+                    "5e4cd48c79f991fcbee2de8b9d30c4b16de3b952"
+                ]
+            },
+            {
+                "hora": "11.30",
+                "evento": "Ascona Locarno GT Trail Finals",
+                "acestream_ids": [
+                    "5e4cd48c79f991fcbee2de8b9d30c4b16de3b952"
+                ]
+            }
+        ]
+    },
+    {
+        "deporte": "BALONCESTO LIGA ENDESA",
+        "eventos": [
+            {
+                "hora": "12.30",
+                "evento": "Real Madrid - Bàsquet Girona",
+                "acestream_ids": [
+                    "859bb6295b8d0f224224d3063d9db7cdeca03122",
+                    "3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
+                    "aa82e7d4f03061f2144a2f4be22f2e2210d42280",
+                    "859bb6295b8d0f224224d3063d9db7cdeca03122",
+                    "3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
+                    "aa82e7d4f03061f2144a2f4be22f2e2210d42280"
+                ]
+            },
+            {
+                "hora": "16.55",
+                "evento": "Coviran Granada - La Laguna Tenerife",
+                "acestream_ids": [
+                    "42e83c337ece0af9ca7808859f84c7960e9cb6f5"
+                ]
+            },
+            {
+                "hora": "16.55",
+                "evento": "Valencia Basket - Morabanc Andorra",
+                "acestream_ids": [
+                    "aee0a595220e0f1c2fee725fd1dbc602d7152a9a"
+                ]
+            },
+            {
+                "hora": "18.30",
+                "evento": "Barça - Baskonia",
+                "acestream_ids": [
+                    "d00223931b1854163e24c5c22475015d7d45c112",
+                    "e5fa927d9a017f4523fdb62774a0aec457985bfa"
+                ]
+            },
+            {
+                "hora": "12.25",
+                "evento": "Hiopos Lleida - Baxi Manresa",
+                "acestream_ids": [
+                    "d00223931b1854163e24c5c22475015d7d45c112",
+                    "e5fa927d9a017f4523fdb62774a0aec457985bfa"
+                ]
+            }
+        ]
+    },
+    {
+        "deporte": "BALONMANO ASOBAL",
+        "eventos": [
+            {
+                "hora": "19.25",
+                "evento": "Nava - Barcelona",
+                "acestream_ids": [
+                    "e2395d28ad19423212fd3aa0e81f387db3e8bb9f"
+                ]
+            }
+        ]
+    },
+    {
+        "deporte": "CICLISMO PISTA",
+        "eventos": [
+            {
+                "hora": "13.20",
+                "evento": "Mundial : Día 5",
+                "acestream_ids": [
+                    "c373da9e901d414b7384e671112e64d5a2310c29"
+                ]
+            },
+            {
+                "hora": "14.45",
+                "evento": "Mundial : Día 5",
+                "acestream_ids": [
+                    "e2395d28ad19423212fd3aa0e81f387db3e8bb9f"
+                ]
+            }
+        ]
+    },
+    {
+        "deporte": "NFL",
+        "eventos": [
+            {
+                "hora": "15.30",
+                "evento": "Jacksonville Jaguars - New England Patriots",
+                "acestream_ids": [
+                    "b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3"
+                ]
+            },
+            {
+                "hora": "19.00",
+                "evento": "Minnesota Vikings - Detroit Lions (VO)",
+                "acestream_ids": [
+                    "b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3"
+                ]
+            },
+            {
+                "hora": "19.00",
+                "evento": "Red Zone. Jornada 7",
+                "acestream_ids": [
+                    "e6f06d697f66a8fa606c4d61236c24b0d604d917"
+                ]
+            },
+            {
+                "hora": "22.25",
+                "evento": "San Francisco 49ers - Kansas City Chiefs",
+                "acestream_ids": [
+                    "d00223931b1854163e24c5c22475015d7d45c112",
+                    "e5fa927d9a017f4523fdb62774a0aec457985bfa"
+                ]
+            }
+        ]
+    },
+    {
+        "deporte": "LIGA EA SPORTS",
+        "eventos": [
+            {
+                "hora": "14.00",
+                "evento": "Mallorca - Rayo",
+                "acestream_ids": [
+                    "4c46585214b23b1d802ef2168060c7649a3894cf",
+                    "06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"
+                ]
+            },
+            {
+                "hora": "16.15",
+                "evento": "At. Madrid - Leganés",
+                "acestream_ids": [
+                    "4c46585214b23b1d802ef2168060c7649a3894cf",
+                    "06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4",
+                    "26029f72a4ca831d09deefe89534818db1d105bc",
+                    "80126b240f3e4e004754fd8f8103e857ab2556a0"
+                ]
+            },
+            {
+                "hora": "18.30",
+                "evento": "Villarreal - Getafe",
+                "acestream_ids": [
+                    "4c46585214b23b1d802ef2168060c7649a3894cf",
+                    "06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4"
+                ]
+            },
+            {
+                "hora": "21.00",
+                "evento": "Barcelona - Sevilla",
+                "acestream_ids": [
+                    "4c46585214b23b1d802ef2168060c7649a3894cf",
+                    "06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4",
+                    "26029f72a4ca831d09deefe89534818db1d105bc",
+                    "80126b240f3e4e004754fd8f8103e857ab2556a0"
+                ]
+            }
+        ]
+    },
+    {
+        "deporte": "LIGA HYPERMOTION",
+        "eventos": [
+            {
+                "hora": "13.54",
+                "evento": "Cádiz - Racing",
+                "acestream_ids": [
+                    "d81b4f2f3fde433539c097b2edc9b587ca47b087",
+                    "d9cf1776ec4443e88aab3ca4b57647b00b4e439e"
+                ]
+            },
+            {
+                "hora": "16.09",
+                "evento": "Racing Ferrol - Huesca",
+                "acestream_ids": [
+                    "d81b4f2f3fde433539c097b2edc9b587ca47b087",
+                    "d9cf1776ec4443e88aab3ca4b57647b00b4e439e"
+                ]
+            },
+            {
+                "hora": "18.24",
+                "evento": "Elche - Sporting",
+                "acestream_ids": [
+                    "d81b4f2f3fde433539c097b2edc9b587ca47b087",
+                    "d9cf1776ec4443e88aab3ca4b57647b00b4e439e"
+                ]
+            },
+            {
+                "hora": "18.24",
+                "evento": "Zaragoza - Almería",
+                "acestream_ids": [
+                    "59ba45b79152e4599144177b234f6491fc19db53"
+                ]
+            }
+        ]
+    },
+    {
+        "deporte": "LIGA F",
+        "eventos": [
+            {
+                "hora": "11.50",
+                "evento": "Athletic Club - VCF Femenino",
+                "acestream_ids": [
+                    "8ca07071b39185431f8e940ec98d1add9e561639",
+                    "eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+                ]
+            },
+            {
+                "hora": "11.50",
+                "evento": "SD Eibar - Deportivo Abanca",
+                "acestream_ids": [
+                    "60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+                    "7aa402bab9fff43258fbcf401881a39475f30aaf"
+                ]
+            },
+            {
+                "hora": "16.50",
+                "evento": "Levante UD - FC Barcelona",
+                "acestream_ids": [
+                    "60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+                    "7aa402bab9fff43258fbcf401881a39475f30aaf"
+                ]
+            },
+            {
+                "hora": "16.50",
+                "evento": "Levante UD - FC Barcelona",
+                "acestream_ids": [
+                    "67654e63b5065cdaa6c8e8d41bb5428b42b32830"
+                ]
+            }
+        ]
+    },
+    {
+        "deporte": "PREMIER LEAGUE",
+        "eventos": [
+            {
+                "hora": "14.50",
+                "evento": "Wolverhampton - Manchester City",
+                "acestream_ids": [
+                    "8ca07071b39185431f8e940ec98d1add9e561639",
+                    "eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+                ]
+            },
+            {
+                "hora": "17.20",
+                "evento": "Liverpool - Chelsea",
+                "acestream_ids": [
+                    "8ca07071b39185431f8e940ec98d1add9e561639",
+                    "eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+                ]
+            },
+            {
+                "hora": "17.20",
+                "evento": "Liverpool - Chelsea",
+                "acestream_ids": [
+                    "859bb6295b8d0f224224d3063d9db7cdeca03122",
+                    "3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
+                    "aa82e7d4f03061f2144a2f4be22f2e2210d42280"
+                ]
+            }
+        ]
+    },
+    {
+        "deporte": "GOLF",
+        "eventos": [
+            {
+                "hora": "11.00",
+                "evento": "Andalucia Masters (World Feed) Jornada 4",
+                "acestream_ids": [
+                    "858b3cf2842ebe394999275e5ebb0435f1af2ae4"
+                ]
+            },
+            {
+                "hora": "16.00",
+                "evento": "Andalucia Masters. Post Jornada 4",
+                "acestream_ids": [
+                    "858b3cf2842ebe394999275e5ebb0435f1af2ae4"
+                ]
+            },
+            {
+                "hora": "23.00",
+                "evento": "Shriners Children's  Open (World Feed) Jornada 4",
+                "acestream_ids": [
+                    "858b3cf2842ebe394999275e5ebb0435f1af2ae4"
+                ]
+            }
+        ]
+    },
+    {
+        "deporte": "HÍPICA ZARZUELA",
+        "eventos": [
+            {
+                "hora": "11.15",
+                "evento": "Temporada Otoño. 20/10/",
+                "acestream_ids": [
+                    "e6f06d697f66a8fa606c4d61236c24b0d604d917"
+                ]
+            }
+        ]
+    },
+    {
+        "deporte": "MOTO GP",
+        "eventos": [
+            {
+                "hora": "00.35",
+                "evento": "Warm Up",
+                "acestream_ids": [
+                    "8ca07071b39185431f8e940ec98d1add9e561639",
+                    "eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+                ]
+            },
+            {
+                "hora": "01.40",
+                "evento": "Carrera Moto3",
+                "acestream_ids": [
+                    "8ca07071b39185431f8e940ec98d1add9e561639",
+                    "eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+                ]
+            },
+            {
+                "hora": "03.00",
+                "evento": "Carrera Moto2",
+                "acestream_ids": [
+                    "8ca07071b39185431f8e940ec98d1add9e561639",
+                    "eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+                ]
+            },
+            {
+                "hora": "04.30",
+                "evento": "Carrera MotoGP",
+                "acestream_ids": [
+                    "8ca07071b39185431f8e940ec98d1add9e561639",
+                    "eaff9293c76a324c750ef5094c2a4e2c96518d1f"
+                ]
+            },
+            {
+                "hora": "07.00",
+                "evento": "Domingo de carreras",
+                "acestream_ids": [
+                    "60dbeeb299ec04bf02bc7426d827547599d3d9fc",
+                    "7aa402bab9fff43258fbcf401881a39475f30aaf"
+                ]
+            }
+        ]
+    },
+    {
+        "deporte": "MOTOCICLISMO VARIOS",
+        "eventos": [
+            {
+                "hora": "10.45",
+                "evento": "Mundial de Superbike : Jerez - Superpole Race",
+                "acestream_ids": [
+                    "e2395d28ad19423212fd3aa0e81f387db3e8bb9f"
+                ]
+            },
+            {
+                "hora": "11.40",
+                "evento": "Cto. del Mundo de Motociclismo Femenino : Jerez. Carrera 2",
+                "acestream_ids": [
+                    "67654e63b5065cdaa6c8e8d41bb5428b42b32830"
+                ]
+            },
+            {
+                "hora": "13.55",
+                "evento": "Mundial de Superbike : Jerez - Segunda carrera",
+                "acestream_ids": [
+                    "e2395d28ad19423212fd3aa0e81f387db3e8bb9f"
+                ]
+            }
+        ]
+    },
+    {
+        "deporte": "FÓRMULA 1 EE.UU",
+        "eventos": [
+            {
+                "hora": "01.09",
+                "evento": "El Post de la Clasificación",
+                "acestream_ids": [
+                    "5789ca155323664edd293b848606688edf803f4d",
+                    "9dad717d99b29a05672166258a77c25b57713dd5",
+                    "e1fcad9de0c782c157fde6377805c58297ab65c2"
+                ]
+            },
+            {
+                "hora": "19.00",
+                "evento": "Previo Carrera",
+                "acestream_ids": [
+                    "5789ca155323664edd293b848606688edf803f4d",
+                    "9dad717d99b29a05672166258a77c25b57713dd5",
+                    "e1fcad9de0c782c157fde6377805c58297ab65c2"
+                ]
+            },
+            {
+                "hora": "20.55",
+                "evento": "Carrera",
+                "acestream_ids": [
+                    "5789ca155323664edd293b848606688edf803f4d",
+                    "9dad717d99b29a05672166258a77c25b57713dd5",
+                    "e1fcad9de0c782c157fde6377805c58297ab65c2"
+                ]
+            },
+            {
+                "hora": "23.09",
+                "evento": "El Post de la Fórmula 1",
+                "acestream_ids": [
+                    "5789ca155323664edd293b848606688edf803f4d",
+                    "9dad717d99b29a05672166258a77c25b57713dd5",
+                    "e1fcad9de0c782c157fde6377805c58297ab65c2"
+                ]
+            }
+        ]
+    },
+    {
+        "deporte": "NATACION",
+        "eventos": [
+            {
+                "hora": "12.45",
+                "evento": "Copa del mundo de natación : Shanghái - Día 3",
+                "acestream_ids": [
+                    "e2395d28ad19423212fd3aa0e81f387db3e8bb9f"
+                ]
+            }
+        ]
+    },
+    {
+        "deporte": "RUGBY",
+        "eventos": [
+            {
+                "hora": "21.00",
+                "evento": "Stade Rochelais - Bordeaux-Bègles",
+                "acestream_ids": [
+                    "aee0a595220e0f1c2fee725fd1dbc602d7152a9a"
+                ]
+            }
+        ]
+    },
+    {
+        "deporte": "SNOOKER",
+        "eventos": [
+            {
+                "hora": "14.00",
+                "evento": "Abierto de Irlanda : Primera ronda",
+                "acestream_ids": [
+                    "5e4cd48c79f991fcbee2de8b9d30c4b16de3b952"
+                ]
+            },
+            {
+                "hora": "20.00",
+                "evento": "Abierto de Irlanda : Primera ronda",
+                "acestream_ids": [
+                    "5e4cd48c79f991fcbee2de8b9d30c4b16de3b952"
+                ]
+            }
+        ]
+    },
+    {
+        "deporte": "TRIATLÓN",
+        "eventos": [
+            {
+                "hora": "16.55",
+                "evento": "ITU : Málaga - Finales - Estándar (M)",
+                "acestream_ids": [
+                    "e2395d28ad19423212fd3aa0e81f387db3e8bb9f"
+                ]
+            }
+        ]
+    },
+    {
+        "deporte": "TENIS",
+        "eventos": [
+            {
+                "hora": "15.05",
+                "evento": "Estocolmo : Final",
+                "acestream_ids": [
+                    "e6f06d697f66a8fa606c4d61236c24b0d604d917"
+                ]
+            },
+            {
+                "hora": "16.35",
+                "evento": "Amberes : Final",
+                "acestream_ids": [
+                    "8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
+                ]
+            }
+        ]
+    },
+    {
+        "deporte": "WATERPOLO SUPERCOPA (F)",
+        "eventos": [
+            {
+                "hora": "11.25",
+                "evento": "CN Mataró - CN Sant Andreu",
+                "acestream_ids": [
+                    "e2395d28ad19423212fd3aa0e81f387db3e8bb9f"
+                ]
+            }
+        ]
+    }
+]
